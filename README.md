@@ -1,4 +1,4 @@
-# Intro-to-Machine-Learning-House-Price-Prediction
+### INTRODUCTION 
 This is the first dataset we are handling after learning the introduction to machine learning. 
    1. This dataset is from kaggle which is a competition and is still active. 
    2. The goal of this dataset is to predict the sale price of the house. 

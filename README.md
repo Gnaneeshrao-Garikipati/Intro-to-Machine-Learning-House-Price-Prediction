@@ -9,3 +9,6 @@ This is the first dataset we are handling after learning the introduction to mac
    7. The evaluation of the dataset is based on RMSE(root mean squared error). 
    8. In this repository we had pushed our work on dataset like preprocessing the data, using different algorithms or models etc. 
    9. We have pushed the changes we had made on the work to boost the rank in kaggle from 3700 to 1054.
+
+### WORKFLOW
+This dataset needs a lot of 
